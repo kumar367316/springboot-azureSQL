@@ -1,0 +1,4 @@
+com\htc\pclconverter\PmaPclAzureStorageApplication.class
+com\htc\pclconverter\service\AzureBlobAdapter.class
+com\htc\pclconverter\config\AzureStorageBlobClientConfig.class
+com\htc\pclconverter\controller\AzureBlobFileController.class
